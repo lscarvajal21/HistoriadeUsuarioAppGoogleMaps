@@ -1,4 +1,5 @@
-# <div align="center" > 🧍Historia Usuario No. 1 Aplicación Tik Tok <img width="148" height="148" alt="image" src="https://github.com/user-attachments/assets/113d89a5-45cf-4e53-aed1-be4ef60e78f8" />
+<img width="100" height="100" alt="image" src="https://github.com/user-attachments/assets/113d89a5-45cf-4e53-aed1-be4ef60e78f8" /> # <div align="center" > 🧍Historia Usuario No. 1 Aplicación Tik Tok 
+
 
 
 ## Uso de aplicación bancaria móvil 📱 Mostrar hora en las transacciones
