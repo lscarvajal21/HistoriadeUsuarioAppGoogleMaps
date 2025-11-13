@@ -1,6 +1,6 @@
 
 <div align="center" ><img width="266" height="148" alt="image" src="https://github.com/user-attachments/assets/0b9ba9fc-39d7-47b4-8f19-dbdd807da3ec" />
-<div align="center" > ## 👨 Historia Usuario No. 1 Aplicación Google Maps  
+<div align="center" > 👨 Historia Usuario No. 1 Aplicación Google Maps  
 
 
 ## Uso de aplicación Google Maps 🚗 Mostrar en tiempo real, información sobre un accidente o cierres víales
@@ -26,7 +26,7 @@
 **Valor:** Permite obtener información precisa, para tomar rutas alternas
 
 
- ## 🚶‍➡️ Historia Usuario No. 2 Aplicación Google Maps 
+🚶‍➡️ Historia Usuario No. 2 Aplicación Google Maps 
 
 ## Uso de aplicación Google Maps 🗣️ Personalización de voz e idioma, para dar indicaciones
 
@@ -47,7 +47,7 @@
 
 **Valor:** Permite mejorar la interacción y el uso del cliente con google maps
 
-## 🧑‍⚖️ Historia Usuario No. 3 Aplicación Google Maps 
+🧑‍⚖️ Historia Usuario No. 3 Aplicación Google Maps 
 
 ## Uso de aplicación Google Maps 🚀 Implementar la funcionalidad de conocer a que velocidad del vehículo
 
